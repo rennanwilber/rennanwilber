@@ -4,7 +4,7 @@
 
 
 ***
-👨🏻‍💻🧑🏻 Analista de TI 
+👨🏻‍💻🧑🏻 Analista de Sistemas
 
 👨🏻‍💻📚 HTML5, CSS3 e JavaScript. <br> Sou apaixonado por desenvolvimento web e estou sempre procurando maneiras de aprimorar minhas habilidades 
 e aprender novas tecnologias. 
