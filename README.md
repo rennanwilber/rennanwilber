@@ -4,9 +4,7 @@
 
 
 ***
-👨🏻‍💻🧑🏻 Analista de Sistemas
-
-👨🏻‍💻📚 HTML5, CSS3 e JavaScript. 
+👨🏻‍💻🧑🏻 Analista de Sistemas 
 
 📑🌎 No meu perfil do GitHub, você encontrará uma variedade de projetos em que trabalhei, incluindo projetos pessoais e colaborativos. <br> Além disso, adoro colaborar com outros desenvolvedores e estou sempre aberto a novas oportunidades de aprendizado e projetos interessantes.
 
